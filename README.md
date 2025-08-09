@@ -13,7 +13,7 @@ The player has to guess a randomly generated number between 1 and 100 within a l
 
 ##  Project Structure
 
-Number-Guessing-Game/
+Number-Guessing-Game
 │
 
 ├── NumberGame.java # Main game source code
